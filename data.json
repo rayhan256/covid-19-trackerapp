@@ -1,0 +1,1312 @@
+{
+  "copyright": "(c) World Health Organization",
+  "dataset": [
+    {
+      "label": "CYCU",
+      "display": "COUNTRY_YEARLY_CORE_UNITS"
+    },
+    {
+      "label": "CYBD",
+      "display": "COUNTRY_YEARLY_BASIC_DATA"
+    },
+    {
+      "label": "CYLM",
+      "display": "COUNTRY_YEARLY_LIFE_MEASURES"
+    },
+    {
+      "label": "RYCS",
+      "display": "REGIONAL_YEARLY_CORE_SUMS"
+    },
+    {
+      "label": "CYCS",
+      "display": "COUNTRY_YEARLY_CORE_SUMS"
+    },
+    {
+      "label": "CYGM",
+      "display": "COUNTRY_YEARLY_GBD_MEASURES"
+    },
+    {
+      "label": "CYMD",
+      "display": "COUNTRY_YEARLY_MORTALITY_DATA"
+    },
+    {
+      "label": "CYSAD",
+      "display": "COUNTRY_YEARLY_SUBSTANCE_ABUSE_DATA"
+    },
+    {
+      "label": "RSGSR",
+      "display": "ROAD_SAFETY_GLOBAL_STATUS_REPORT"
+    },
+    {
+      "label": "FCD",
+      "display": "FACT_CORE_DATA"
+    },
+    {
+      "label": "FD",
+      "display": "FACT_DATA"
+    },
+    {
+      "label": "MORT",
+      "display": "WHODPSM_EXPORT"
+    },
+    {
+      "label": "GCD",
+      "display": "GBD_CHILD_DATA"
+    },
+    {
+      "label": "GBDRD",
+      "display": "GBD_REGIONAL_DEATHS"
+    },
+    {
+      "label": "ITU",
+      "display": "ITU Statistics"
+    },
+    {
+      "label": "NUTRITION_DATA",
+      "display": "Nutrition database"
+    },
+    {
+      "label": "GLASS",
+      "display": "Global AMR Surveillance System"
+    },
+    {
+      "label": "ICD11",
+      "display": "ICD11"
+    }
+  ],
+  "attribute": [
+    {
+      "label": "COMMENT",
+      "display": "COMMENT"
+    },
+    {
+      "label": "DS",
+      "display": "DS"
+    },
+    {
+      "label": "FIPS",
+      "display": "FIPS"
+    },
+    {
+      "label": "IOC",
+      "display": "IOC"
+    },
+    {
+      "label": "ISO2",
+      "display": "ISO2"
+    },
+    {
+      "label": "ISO",
+      "display": "ISO"
+    },
+    {
+      "label": "ITU",
+      "display": "ITU"
+    },
+    {
+      "label": "MARC",
+      "display": "MARC"
+    },
+    {
+      "label": "WHO",
+      "display": "WHO"
+    },
+    {
+      "label": "WMO",
+      "display": "WMO"
+    },
+    {
+      "label": "GEOMETRY",
+      "display": "GEOMETRY"
+    },
+    {
+      "label": "MORT",
+      "display": "MORT"
+    },
+    {
+      "label": "LAND_AREA_KMSQ_2012",
+      "display": "LAND_AREA_KMSQ_2012"
+    },
+    {
+      "label": "LANGUAGES_EN_2012",
+      "display": "LANGUAGES_EN_2012"
+    },
+    {
+      "label": "WHO_REGION",
+      "display": "WHO_REGION"
+    },
+    {
+      "label": "WHO_REGION_CODE",
+      "display": "WHO_REGION_CODE"
+    },
+    {
+      "label": "WORLD_BANK_INCOME_GROUP",
+      "display": "World Bank income group"
+    },
+    {
+      "label": "WORLD_BANK_INCOME_GROUP_CODE",
+      "display": "World Bank income group code"
+    },
+    {
+      "label": "TYPE",
+      "display": "TYPE"
+    },
+    {
+      "label": "SHORTNAMEES",
+      "display": "SHORTNAMEES"
+    },
+    {
+      "label": "SHORTNAMEFR",
+      "display": "SHORTNAMEFR"
+    },
+    {
+      "label": "WHOLEGALSTATUS",
+      "display": "WHOLEGALSTATUS"
+    },
+    {
+      "label": "CATEGORY",
+      "display": "Category"
+    },
+    {
+      "label": "ISO",
+      "display": "ISO3 code"
+    },
+    {
+      "label": "SOURCE",
+      "display": "Data source"
+    },
+    {
+      "label": "ISO",
+      "display": "ISO3 code"
+    },
+    {
+      "label": "SOURCE",
+      "display": "Data source"
+    },
+    {
+      "label": "BREAK_1",
+      "display": "break 1"
+    },
+    {
+      "label": "BREAK_2",
+      "display": "break 2"
+    },
+    {
+      "label": "BREAK_3",
+      "display": "break 3"
+    },
+    {
+      "label": "BREAK_4",
+      "display": "break 4"
+    },
+    {
+      "label": "BREAK_5",
+      "display": "break 5"
+    },
+    {
+      "label": "BREAK_6",
+      "display": "break 6"
+    },
+    {
+      "label": "BREAK_7",
+      "display": "break 7"
+    },
+    {
+      "label": "BREAK_8",
+      "display": "break 8"
+    },
+    {
+      "label": "BREAK_9",
+      "display": "break 9"
+    },
+    {
+      "label": "BREAK_10",
+      "display": "break 10"
+    },
+    {
+      "label": "RENDERER_ID",
+      "display": "Renderer ID"
+    },
+    {
+      "label": "LABELS",
+      "display": "Labels"
+    },
+    {
+      "label": "WORLD_BANK_INCOME_GROUP_GNI_REFERENCE_YEAR",
+      "display": "World Bank income group GNI reference year"
+    },
+    {
+      "label": "WORLD_BANK_INCOME_GROUP_RELEASE_DATE",
+      "display": "World Bank income group release date"
+    },
+    {
+      "label": "DEFINITION_XML",
+      "display": "Definition (XML)"
+    },
+    {
+      "label": "IMD_ID",
+      "display": "IMR identifier"
+    },
+    {
+      "label": "IMR_ID",
+      "display": "IMR identifier"
+    },
+    {
+      "label": "DISPLAY_FR",
+      "display": "Français"
+    },
+    {
+      "label": "DISPLAY_ES",
+      "display": "Español"
+    },
+    {
+      "label": "TYPE",
+      "display": "Core/Additional"
+    },
+    {
+      "label": "ABBREVIATED_NAME",
+      "display": "Abbreviated name"
+    },
+    {
+      "label": "DOMAIN",
+      "display": "Domain"
+    },
+    {
+      "label": "SUBDOMAIN",
+      "display": "Subdomain"
+    },
+    {
+      "label": "TERMS",
+      "display": "Associated terms"
+    },
+    {
+      "label": "DEFINITION",
+      "display": "Definition"
+    },
+    {
+      "label": "NUMERATOR",
+      "display": "Numerator"
+    },
+    {
+      "label": "DENOMINATOR",
+      "display": "Denominator"
+    },
+    {
+      "label": "DISAGGREGATION",
+      "display": "Disaggregation/additional dimension"
+    },
+    {
+      "label": "METHOD_MEASUREMENT",
+      "display": "Method of measurement"
+    },
+    {
+      "label": "METHOD_ESTIMATION",
+      "display": "Method of estimation"
+    },
+    {
+      "label": "FREQUENCY",
+      "display": "Measurement frequency"
+    },
+    {
+      "label": "ME_FRAMEWORK",
+      "display": "M&E framework"
+    },
+    {
+      "label": "DATA_SOURCES_PREFERRED",
+      "display": "Preferred data sources"
+    },
+    {
+      "label": "DATA_SOURCES_OTHER",
+      "display": "Other possible data sources"
+    },
+    {
+      "label": "NOTE_1",
+      "display": "1"
+    },
+    {
+      "label": "NOTE_2",
+      "display": "2"
+    },
+    {
+      "label": "NOTE_3",
+      "display": "3"
+    },
+    {
+      "label": "NOTE_4",
+      "display": "4"
+    },
+    {
+      "label": "NOTE_5",
+      "display": "5"
+    },
+    {
+      "label": "NOTE_6",
+      "display": "6"
+    },
+    {
+      "label": "NOTE_7",
+      "display": "7"
+    },
+    {
+      "label": "NOTE_8",
+      "display": "8"
+    },
+    {
+      "label": "NOTE_9",
+      "display": "9"
+    },
+    {
+      "label": "ADMIN_LEVEL",
+      "display": "Admin level"
+    },
+    {
+      "label": "AUTHOR",
+      "display": "Author"
+    },
+    {
+      "label": "DATA_AVAILABLE",
+      "display": "Data available"
+    },
+    {
+      "label": "ENTRY_DATE",
+      "display": "Entry data"
+    },
+    {
+      "label": "ISO3_Code",
+      "display": "ISO3 code"
+    },
+    {
+      "label": "JME_CLASS",
+      "display": "JME class"
+    },
+    {
+      "label": "JME_STATUS",
+      "display": "JME status"
+    },
+    {
+      "label": "LAST_UPDATE",
+      "display": "Last update"
+    },
+    {
+      "label": "LOCATIONTYPE",
+      "display": "Location type"
+    },
+    {
+      "label": "NOTE",
+      "display": "Note"
+    },
+    {
+      "label": "Q_SCORE",
+      "display": "Q score"
+    },
+    {
+      "label": "RAW_DATA_AVAILABLE",
+      "display": "Raw data available"
+    },
+    {
+      "label": "REFERENCE",
+      "display": "Reference"
+    },
+    {
+      "label": "RESIDENCEAREATYPE",
+      "display": "Residence area type"
+    },
+    {
+      "label": "SURVEY_SOURCE",
+      "display": "Survey source"
+    },
+    {
+      "label": "WASTING_CONTEXT",
+      "display": "Wasting context"
+    },
+    {
+      "label": "PARENT",
+      "display": "Parent"
+    },
+    {
+      "label": "REGION_TYPE",
+      "display": "Region type"
+    },
+    {
+      "label": "CORRESPONDING_SDG",
+      "display": "Corresponding SDG indicator(s)"
+    },
+    {
+      "label": "DOMAIN",
+      "display": "Domain"
+    },
+    {
+      "label": "SUBDOMAIN",
+      "display": "Subdomain"
+    },
+    {
+      "label": "SUBID",
+      "display": "ID within subdomain"
+    },
+    {
+      "label": "SUBSUBID",
+      "display": "ID within indicator"
+    }
+  ],
+  "dimension": [
+    {
+      "label": "GHO",
+      "display": "Indicator",
+      "isMeasure": true,
+      "code": []
+    },
+    {
+      "label": "GHOCAT",
+      "display": "Indicator Categories",
+      "isMeasure": true,
+      "code": []
+    },
+    {
+      "label": "DATASOURCE",
+      "display": "Data Source",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "GBDCHILDCAUSES",
+      "display": "Child cause",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "ICD10CAUSEGROUP",
+      "display": "ICD10CAUSEGROUP",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "ICD10CHAPTER",
+      "display": "ICD10CHAPTER",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "ICDIMPL",
+      "display": "ICD Implementation",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "GBDCAUSECODE",
+      "display": "GBD Cause",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "MORTCAUSE",
+      "display": "MORT Cause",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "PUBLISHSTATE",
+      "display": "PUBLISH STATES",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "YEAR",
+      "display": "Year",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "WEEK",
+      "display": "Week",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "MONTH",
+      "display": "Month",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "DAY",
+      "display": "Day",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "QTR",
+      "display": "Quarter",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "LOCATION",
+      "display": "LOCATION",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "CTRYGROUP",
+      "display": "Country Group",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "GBDREGION",
+      "display": "GBD Region",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "REGION",
+      "display": "WHO region",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "SUBREGION",
+      "display": "Sub Region",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "UNMDGREGION",
+      "display": "UN MDG Region",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "UNREGION",
+      "display": "UN Region",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "WHOINCOMEREGION",
+      "display": "WHO Income Region",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "WORLDBANKINCOMEGROUP",
+      "display": "World Bank income group",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "WORLDBANKREGION",
+      "display": "World Bank Region",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "COUNTRY",
+      "display": "Country",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "AGEGROUP",
+      "display": "Age Group",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "DISEASECAUSE",
+      "display": "Disease Cause",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "DISEASECAUSEGROUP",
+      "display": "Disease Cause Group",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "DISEASECAUSESUBGROUP",
+      "display": "Disease Cause Sub Group",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "DISEASESUBCAUSE",
+      "display": "Disease Sub Cause",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "EDUCATIONLEVEL",
+      "display": "Education Level",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "GBDTYPE",
+      "display": "GBD Types",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "SEX",
+      "display": "Sex",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "HEALTHSTATUS",
+      "display": "Health Status",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "INCOMELEVEL",
+      "display": "Income Level",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "LOCATIONTYPE",
+      "display": "Location Type",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "PERIODICITY",
+      "display": "Periodicity",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "RESIDENCEAREATYPE",
+      "display": "Residence Area Type",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "DRINKDRIVINGDEFINITIONTYPE",
+      "display": "Drinking and Driving Definition Type",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "DRIVERTYPE",
+      "display": "Driver Type",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "DRIVINGTESTTYPE",
+      "display": "Driving Test Type",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "MOTOCYCLEOCCUPANTTYPE",
+      "display": "Motorcycle Occupant Type",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "PHONEACCESSTYPE",
+      "display": "Phone Access Type",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "ROADUSERTYPE",
+      "display": "Road User Type",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "SEATTYPE",
+      "display": "Seat Type",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "WEALTHQUINTILE",
+      "display": "Wealth Quintile",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "MEASUREMENTMETHODS",
+      "display": "MEASUREMENT_METHODS",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "CLINICALSUPERVISION",
+      "display": "RSUD_CLINICAL_SUPERVISION",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "DRUGPRESCRIPTION",
+      "display": "RSUD_DRUG_PRESCRIPTION",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "DRUGSUPERVISION",
+      "display": "RSUD_DRUG_SUPERVISION",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "DRUG",
+      "display": "RSUD_DRUGS",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "GOVERNMENTBENEFIT",
+      "display": "RSUD_GOVERNMENT_BENEFITS",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "GROUP",
+      "display": "RSUD_GROUPS",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "NGO",
+      "display": "RSUD_NGOS",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "OPENACCESSSERVICE",
+      "display": "RSUD_OPEN_ACCESS_SERVICES",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "PROGRAMME",
+      "display": "RSUD_PROGRAMMES",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "PUBLICPRIVATESETTING",
+      "display": "RSUD_PUBLIC_PRIVATE_SETTINGS",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "SPECIALPOPULATION",
+      "display": "RSUD_SPECIAL_POPULATIONS",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "STANDARDOFCARE",
+      "display": "RSUD_STANDARDS_OF_CARE",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "SUBSTANCETYPEDISORDER",
+      "display": "RSUD_SUBSTANCE_TYPE_DISORDERS",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "SUBSTANCETYPE",
+      "display": "RSUD_SUBSTANCE_TYPES",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "SOCIOECONOMIC",
+      "display": "SOCIOECONOMIC_TYPES",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "ADVERTISINGTYPE",
+      "display": "SUBSTANCE_ABUSE_ADVERTISING_TYPES",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "ALCOHOLPOLICYYEAR",
+      "display": "SUBSTANCE_ABUSE_ALCOHOL_POLICY_YEARS",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "ALCOHOLTYPE",
+      "display": "Beverage Types",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "AWARENESSACTIVITYTYPE",
+      "display": "SUBSTANCE_ABUSE_AWARENESS_ACTIVITY_TYPES",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "BACGROUP",
+      "display": "SUBSTANCE_ABUSE_BAC_GROUPS",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "BEVERAGETYPE",
+      "display": "SUBSTANCE_ABUSE_BEVERAGE_TYPES",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "COORDINATINGENTITIES",
+      "display": "SUBSTANCE_ABUSE_COORDINATING_ENTITIES",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "HARMANDCONSEQUENCE",
+      "display": "SUBSTANCE_ABUSE_HARM_AND_CONSEQUENCES",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "INDUSTRYTYPE",
+      "display": "SUBSTANCE_ABUSE_INDUSTRY_TYPES",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "POLICYADOPTIONLEVEL",
+      "display": "SUBSTANCE_ABUSE_POLICY_ADOPTION_LEVELS",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "POLICYFRAMEWORK",
+      "display": "SUBSTANCE_ABUSE_POLICY_FRAMEWORKS",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "POLICYSECTOR",
+      "display": "SUBSTANCE_ABUSE_POLICY_SECTORS",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "PUBLICPLACE",
+      "display": "SUBSTANCE_ABUSE_PUBLIC_PLACES",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "SOCIALCOSTTYPE",
+      "display": "SUBSTANCE_ABUSE_SOCIAL_COST_TYPES",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "MGHEREG",
+      "display": "Region",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "GHECAUSE",
+      "display": "Causes",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "GHECAUSES",
+      "display": "Causes",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "ESSMEDSRESPONSE",
+      "display": "Response rate",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "DONORTYPE",
+      "display": "Donor type",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "LEGISLATIONTYPE",
+      "display": "Legislation type",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "MEASUREIMPORTANCETYPE",
+      "display": "SUBSTANCE_ABUSE_MEASURE_IMPORTANCE_TYPE",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "PENALTYTYPE",
+      "display": "Penalty Type",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "PRICEMEASURETYPE",
+      "display": "Price measure types",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "SPONSORSHIPORIGINATOR",
+      "display": "Sponsorship originator",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "COMMUNITYACTIONTYPE",
+      "display": "Community Action",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "EMFEXPOSED",
+      "display": "Exposed",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "EMFFREQUENCY",
+      "display": "Frequency",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "EMFFIELD",
+      "display": "Field",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "EMFBODYPART",
+      "display": "Body part",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "PLACE",
+      "display": "Place",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "CONSUMPTIONTYPE",
+      "display": "Consumption type",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "INADEQUACY",
+      "display": "Inadequacy",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "NATIONALSYSTEMTYPE",
+      "display": "National System Type",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "CASE_DEFINITION",
+      "display": "Case definition",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "DHSMICSGEOREGION",
+      "display": "Subnational region",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "RENDERER",
+      "display": "Renderer",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "PROVIDER",
+      "display": "Provider",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "GHECAUSELEVEL1",
+      "display": "Cause group",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "GHECAUSELEVEL2",
+      "display": "Cause",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "GHECAUSELEVEL3",
+      "display": "Subcause group",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "GHECAUSELEVEL4",
+      "display": "Subcause",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "VEHICLESTANDARD",
+      "display": "Vehicle standards",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "SUNBED_ACCESS",
+      "display": "Sunbed access restrictions",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "SUNBED_CONTROL",
+      "display": "Restriction and inspection of sunbed facilities",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "SUNBED_INFO",
+      "display": "Sunbed public information requirements",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "SUNBED_TRAINING",
+      "display": "Sunbed facility staff training requirements",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "SUNBED_SAFETY",
+      "display": "Sunbed facility safety requirements",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "CHILDCAUSE",
+      "display": "Cause of death",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "ENVCAUSE",
+      "display": "Cause",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "INDICATOR",
+      "display": "Indicator",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "EMFRADIOBAND",
+      "display": "Radio band",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "OECDREGION",
+      "display": "OECD Region",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "UNSDGREGION",
+      "display": "UN SDG Region",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "SURVEY",
+      "display": "Survey",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "LEGISLATIONAREA",
+      "display": "Legislation exists",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "RSUDREP",
+      "display": "Representatives",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "RSUDTREATMENT",
+      "display": "Treatment",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "RSUDTREATMENTLOCATION",
+      "display": "Treatment location",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "RSUDMAINSUBSTANCEATTREATMENT",
+      "display": "RSUD Main substance at treatment",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "RSUDSUBSTANCEDEPENDENCE",
+      "display": "Substance dependence",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "RSUDPHARMACOTHERAPYOPTION",
+      "display": "Pharmacotherapy options",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "RSUDMAINTENANCEACCESSRESTRICTIONS",
+      "display": "Maintenance access restrictions",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "RSUDPREVENTIONPROGRAMME",
+      "display": "Prevention programmes",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "RSUDSPECIFICPOPULATION",
+      "display": "Specific populations",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "RSUD_HIVHEP_CT",
+      "display": "HIV / Hepatitis counselling and treatment",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "RSUDHWF",
+      "display": "Human resources / health workforce",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "RSUDREPORTING",
+      "display": "Sources of reporting",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "RSUDMONITORING",
+      "display": "Monitoring system",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "GOEQUESTION",
+      "display": "Goe question",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "SDGREGION",
+      "display": "SDG indicators regional groupings",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "AMRGLASSCATEGORY",
+      "display": "AMR GLASS Category",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "MALARIAMETHODOFCONFIRMATION",
+      "display": "Malaria method of confirmation",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "CORE_HEALTH_INDICATOR",
+      "display": "Core Health Indicator",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "ALCACTIONAREA",
+      "display": "Action area",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "RADONSUBQUESTIONS",
+      "display": "Radon subquestions",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "WPR_DATASOURCE",
+      "display": "WPRO Data Source",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "WPR_DEMO_IND",
+      "display": "WPRO Demo Indicator",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "KE_COUNTY",
+      "display": "County",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "KE_CORE",
+      "display": "Kenya Core Indicators",
+      "isMeasure": false,
+      "code": []
+    },
+    {
+      "label": "IHRSPARCAPACITYLEVEL",
+      "display": "IHR SPAR Capacity Level",
+      "isMeasure": false,
+      "code": []
+    }
+  ],
+  "fact": []
+}
